@@ -40,4 +40,4 @@ Example to infer a few samples with the trained the model:
 
 
 ## More information
-This ARTICLE discusses the effect and shows suggestions on how to reduce it.
+This [article](https://harald-scheidl.medium.com/d2f5a7866135) discusses the effect and shows suggestions on how to reduce it.
